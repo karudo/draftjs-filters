@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/draftjs-filters/static/js/main.9fbe6574.chunk.js",
+    "main.js.map": "/draftjs-filters/static/js/main.9fbe6574.chunk.js.map",
+    "runtime-main.js": "/draftjs-filters/static/js/runtime-main.c09afc78.js",
+    "runtime-main.js.map": "/draftjs-filters/static/js/runtime-main.c09afc78.js.map",
+    "index.html": "/draftjs-filters/index.html",
+    "precache-manifest.dfcf2e846d158b4e5c0b74fb2d1c4ebd.js": "/draftjs-filters/precache-manifest.dfcf2e846d158b4e5c0b74fb2d1c4ebd.js",
+    "service-worker.js": "/draftjs-filters/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09afc78.js",
+    "static/js/main.9fbe6574.chunk.js"
+  ]
+}
